@@ -1,0 +1,60 @@
+{
+    "Objective": "Ramp quickly, internalize Mintlify\u2019s product + customer DNA, and launch initial growth experiments to build a repeatable pipeline for mid-market and enterprise technical buyers (developers, PMs, technical writers).",
+    "GuidingPrinciples": {
+        "PredictableRevenue": "Every activity must ladder into understanding ROI and repeatability. Top of funnel efforts should provide a formulaic input-output dynamic - given X investment of time and resources we should see Z output in terms of new users.",
+        "ShortTermVsLongTermBalance": "Quick strategies to prove traction, paired with compounding investments (SEO, community, brand).",
+        "Collaboration": "Work closely with product, sales, and success to ensure growth efforts align to real user needs and enterprise buying motions."
+    },
+    "KnowledgeOnboarding": {
+        "Days0_30": {
+            "Focus": "Onboard into the product and culture.",
+            "Actions": [
+                "Join sales calls, customer support calls, and product discussions.",
+                "Audit existing ICP definitions, buyer personas, and product positioning materials.",
+                "Map out who is using Mintlify, why they\u2019re using it, and where friction exists."
+            ],
+            "Deliverable": "User & Buyer Map: Clear view of current users, their motivations, success stories, and blockers."
+        },
+        "Days30_60": {
+            "Focus": "Depth + Strategic Context.",
+            "Actions": [
+                "Deep dive on product vision and sales momentum.",
+                "Cluster customers into self-serve adopters vs. enterprise prospects, mapping paths from self-onboarding to mid-market to enterprise."
+            ],
+            "Deliverable": "Growth Opportunity Brief: Strategic clusters of high-potential accounts with messages/channels that can turn the flywheel."
+        }
+    },
+    "MarketingExecution": {
+        "Days0_15": {
+            "Focus": "Baseline Audit.",
+            "Actions": [
+                "Inventory existing marketing channels: paid, organic, SEO, events, partnerships, community, outbound collateral.",
+                "Gather performance baselines: traffic, conversion, cost per lead, sales cycle data, channel ROI."
+            ],
+            "Deliverable": "Channel & Performance Map with clear baselines for every channel."
+        },
+        "Days16_30": {
+            "Focus": "Hypothesis Building.",
+            "Actions": [
+                "Build exhaustive hypothesis list across channels, messaging angles, and personas.",
+                "Develop core collateral: one-pagers, case studies, landing page variants aligned to enterprise buyers.",
+                "Test new solutions in market for top of funnel development."
+            ],
+            "Deliverable": "Initial Hypothesis Deck: Short-term vs. long-term growth bets, with aligned collateral and impressions from new solutions."
+        },
+        "Days31_60": {
+            "Focus": "Test & Iterate.",
+            "Actions": [
+                "Launch short-cycle experiments in top channels (SEO, LinkedIn/Reddit/Twitter, outbound sequences).",
+                "Measure time/effort \u2192 output to establish baseline conversion metrics.",
+                "Build concept of predictable revenue: with X time and Y dollars, output is Z signups/pipeline."
+            ],
+            "Deliverable": "Growth Experiment Dashboard: Early signals on channels that drive repeatable, scalable pipeline."
+        }
+    },
+    "ExpectedOutputByDay60": [
+        "Map of Mintlify\u2019s user + buyer ecosystem.",
+        "Channel baseline with tested hypotheses.",
+        "First signals toward a repeatable growth engine for enterprise pipeline."
+    ]
+}
